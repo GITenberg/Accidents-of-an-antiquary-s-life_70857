@@ -1,5 +1,8 @@
 _repo: Accidents-of-an-antiquary-s-life_70857
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70857-h/images/cover.jpg
 creator:
   author:
     agent_name: Hogarth, D. G. (David George)
@@ -13,6 +16,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/David_George_Hogarth
 description: With forty illustrations from photographs taken by the author and his
   companions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70857#Accidents-of-an-antiquary-s-life
 gutenberg_issued: '2023-05-25'
 identifiers:
   gutenberg: '70857'
